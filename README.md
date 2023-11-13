@@ -1,2 +1,2 @@
 # TextFrameLibraries
-Credits for words_alpha.txt file goes to https://github.com/dwyl/english-words project of dwyl
+Credits for words_alpha.txt and words.txt files goes to https://github.com/dwyl/english-words project of dwyl
